@@ -1,0 +1,8 @@
+02/12/20 01:11:51 PM - SeleniumDriver - INFO : Element not found with locator: Login and  locatorType: link
+02/12/20 01:11:51 PM - SeleniumDriver - INFO : Cannot click on the element with locator: Login locatorType: link
+02/12/20 01:12:18 PM - SeleniumDriver - INFO : Element not found with locator: user_email and  locatorType: id
+02/12/20 01:12:18 PM - SeleniumDriver - INFO : Cannot send data on the element with locator: user_email locatorType: id
+02/12/20 01:12:20 PM - SeleniumDriver - INFO : Element not found with locator: user_password and  locatorType: id
+02/12/20 01:12:20 PM - SeleniumDriver - INFO : Cannot send data on the element with locator: user_password locatorType: id
+02/12/20 01:12:21 PM - SeleniumDriver - INFO : Element not found with locator: commit and  locatorType: name
+02/12/20 01:12:21 PM - SeleniumDriver - INFO : Cannot click on the element with locator: commit locatorType: name
