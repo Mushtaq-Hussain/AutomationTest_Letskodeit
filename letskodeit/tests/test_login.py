@@ -17,11 +17,11 @@ class TestLogin(unittest.TestCase):
         result = self.lp.valid_login()
         assert result == True
 
-    @pytest.mark.run(order=1)
-    def test_invalid_login(self):
-         self.lp.login_test("test@email.com", "abcabcabac")
-         result = self.lp.invalid_login()
-         assert result == True
+    # @pytest.mark.run(order=1)
+    # def test_invalid_login(self):
+    #      self.lp.login_test("test@email.com", "abcabcabac")
+    #      result = self.lp.invalid_login()
+    #      assert result == True
 
 
 
